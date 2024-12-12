@@ -38,7 +38,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 For any inquiries or suggestions, feel free to reach out:
 - **Name**: Rimpa Adhikary
-- **Email**: rimpaadhikary18@example.com
+- **Email**: rimpaadhikary18@gmail.com
 - **GitHub**: [Rimpa-Adhikary](https://github.com/Rimpa-Adhikary)
 
 ---
